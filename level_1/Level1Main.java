@@ -26,5 +26,29 @@ public class Level1Main
 
 		//SecretPhoneNum phone = new SecretPhoneNum();
 		//System.out.println(phone.solution("01026581667"));
+
+		// Collatz collatz = new Collatz();
+		// System.out.println(collatz.solution(6));
+		
+		// EvenOrOdd evenOrOdd = new EvenOrOdd();
+		// System.out.println(evenOrOdd.solution(2));
+
+		// GcdAndLcm gcdAndLcm = new GcdAndLcm();
+		// int[] print = gcdAndLcm.solution(3,12);
+		// for (int i : print) {
+		// 	System.out.println(i);
+		// }
+
+		// DeleteMin deleteMin = new DeleteMin();
+		// int[] arr = {4, 3, 2, 1};
+		// int[] print = deleteMin.solution(arr);
+		// for (int i : print) {
+		// 	System.out.println(i);
+		// }
+
+		// ToSqrt toSqrt = new ToSqrt();
+		// System.out.println(toSqrt.solution(121));
+
+		
 	}
 }
