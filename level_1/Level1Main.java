@@ -49,6 +49,10 @@ public class Level1Main
 		// ToSqrt toSqrt = new ToSqrt();
 		// System.out.println(toSqrt.solution(121));
 
-		
+		// Quicksort quick = new Quicksort();
+		// System.out.println(quick.sort(118372));
+
+		// WhyChar why = new WhyChar();
+		// System.out.println(why.change("try catch"));
 	}
 }

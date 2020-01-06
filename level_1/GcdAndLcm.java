@@ -16,7 +16,6 @@ public class GcdAndLcm
 			max = number2;
 			min = number1;
 		}
-		int a = 0;
 		while(min!=0)
 		{
 			int gcdNum = max%min;

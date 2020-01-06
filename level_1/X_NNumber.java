@@ -7,6 +7,6 @@ public class X_NNumber
 		{
 			answer[answerIndex] = (long)x*(answerIndex+1);
 		}
-		return answe;
+		return answer;
 	}
 }
